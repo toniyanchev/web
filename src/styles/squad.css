@@ -1,0 +1,9 @@
+.player-card {
+	height: 200px;
+	width: 300px;
+	margin-top: 4vh;
+}
+p {
+	font-family: Impact, fantasy;
+	font-weight: bold;
+}
